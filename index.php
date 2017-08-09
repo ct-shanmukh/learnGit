@@ -1,6 +1,6 @@
 <?php 
 $result=array();
-$substr="shanmukh rajendra srishan delliswa rao";
+$substr="shanmukh rajendra srishan delliswa rao Vallbha Rao";
 $find=" ";
 //total string assigning to result array
 $result[]=$substr=trim($substr);
